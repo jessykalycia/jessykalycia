@@ -8,7 +8,7 @@ Founder & engineer at **[Sophia Foundry](https://www.sophiafoundry.com)** -- a g
 
 ### [Sophia Forge](https://www.sophiaforge.com)
 
-My biggest project -- a **game development operating system**. A desktop IDE for designing, tracking, and assembling every piece of a game project: narrative design, level layout, game content, media assets, production tracking, and more.
+My biggest project -- a **game development workstation**. A desktop IDE for designing, tracking, and assembling every piece of a game project: narrative design, level layout, game content, media assets, production tracking, and more.
 
 Built with **Electron + React + NestJS**, it runs entirely offline with local-first file storage, and connects to **Unreal Engine 5** via a custom WebSocket plugin for bidirectional sync.
 
